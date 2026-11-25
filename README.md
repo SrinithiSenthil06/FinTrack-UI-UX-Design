@@ -29,7 +29,7 @@ To design a clean, user-friendly and visually consistent mobile application inte
 
 ## Design Prototype
 **Figma Design & Interactive Prototype:**  
-[[Paste your Figma view link here](https://www.figma.com/design/J4gXCAh8IcxujBDWZxjrxr/FinTrack-Personal-Finance-App?node-id=0-1&t=qgxWSiTfdwUtndQa-1)
+[[View FinTrack Figma Prototype](https://www.figma.com/design/J4gXCAh8IcxujBDWZxjrxr/FinTrack-Personal-Finance-App?node-id=0-1&t=qgxWSiTfdwUtndQa-1)
 
 ## Screenshots
 The six exported application screens are available in this repository.
